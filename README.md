@@ -100,7 +100,7 @@ education:
 <details>
   <summary>📖 Recent articles</summary>
   <ul>
-    <li>Visit <a href="https://ramazanatalay.medium.com">my blog</a> for the latest posts.</li>
+    <li><a target="_blank" href="https://ramazanatalay.medium.com/how-to-set-up-jenkins-using-docker-on-macos-a-step-by-step-guide-c6647e826045?source=rss-fe99d9d6b80b------2">“How to Set Up Jenkins using Docker on MacOS: A Step-by-Step Guide” — February 26, 2023</a></li>
   </ul>
 </details>
 
