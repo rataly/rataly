@@ -1,0 +1,25 @@
+{
+    "name": "rataly",
+    "version": "1.0.0",
+    "description": "Personal README.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rataly/rataly.git"
+    },
+    "author": "Ramazan Atalay",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rataly/rataly/issues"
+    },
+    "homepage": "https://github.com/rataly/rataly#readme",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "markdown-it": "^11.0.0",
+        "markdown-it-emoji": "^1.4.0"
+    }
+}
