@@ -21,8 +21,8 @@
 I'm a **Site Reliability Engineer at [Loblaw](https://www.loblaw.ca/)**, Canada's largest retailer, where I design and operate cloud infrastructure at scale. With a background in academia (Ph.D. Physics) and years of hands-on cloud engineering, I bridge deep technical rigour with pragmatic production systems.
 
 ```yaml
-role: Site Reliability Engineer @ Loblaw Inc.
-location: Toronto, Canada 🇨🇦
+role:       Site Reliability Engineer @ Loblaw Inc.
+location:   Toronto, Canada 🇨🇦
 experience:
   - SRE & Cloud Engineering        (2019 – present)
   - Assistant Professor, Physics   (2013 – 2017)
@@ -108,16 +108,18 @@ education:
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=rataly&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rataly&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p> -->
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rataly&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rataly&theme=tokyonight&row=1&no-frame=true&margin-w=8" alt="trophies" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rataly&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
