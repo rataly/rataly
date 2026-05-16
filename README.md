@@ -108,19 +108,16 @@ education:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=rataly&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rataly&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rataly&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rataly&theme=tokyonight&row=1&no-frame=true&margin-w=8" alt="trophies" />
 </p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rataly&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
