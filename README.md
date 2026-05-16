@@ -21,8 +21,8 @@
 I'm a **Site Reliability Engineer at [Loblaw](https://www.loblaw.ca/)**, Canada's largest retailer, where I design and operate cloud infrastructure at scale. With a background in academia (Ph.D. Physics) and years of hands-on cloud engineering, I bridge deep technical rigour with pragmatic production systems.
 
 ```yaml
-role: Site Reliability Engineer @ Loblaw Inc.
-location: Toronto, Canada 🇨🇦
+role:       Site Reliability Engineer @ Loblaw Inc.
+location:   Toronto, Canada 🇨🇦
 experience:
   - SRE & Cloud Engineering        (2019 – present)
   - Assistant Professor, Physics   (2013 – 2017)
