@@ -21,8 +21,8 @@
 I'm a **Site Reliability Engineer at [Loblaw](https://www.loblaw.ca/)**, Canada's largest retailer, where I design and operate cloud infrastructure at scale. With a background in academia (Ph.D. Physics) and years of hands-on cloud engineering, I bridge deep technical rigour with pragmatic production systems.
 
 ```yaml
-role: Site Reliability Engineer @ Loblaw Inc.
-location: Toronto, Canada 🇨🇦
+role:       Site Reliability Engineer @ Loblaw Inc.
+location:   Toronto, Canada 🇨🇦
 experience:
   - SRE & Cloud Engineering        (2019 – present)
   - Assistant Professor, Physics   (2013 – 2017)
@@ -52,21 +52,23 @@ education:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-  </p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /></p>
 
 **Observability & CI/CD**
 
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="Jenkins" width="40" height="40" /></p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" /></p>
 
 **Languages & Databases**
 
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></p>
 
@@ -106,16 +108,19 @@ education:
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=rataly&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rataly&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p> -->
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rataly&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rataly&theme=tokyonight&row=1&no-frame=true&margin-w=8" alt="trophies" />
 </p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rataly&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
