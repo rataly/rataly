@@ -274,30 +274,11 @@ const stats = [
   "## GitHub Stats",
   "",
   '<p align="center">',
-  '  <img height="160" src="https://github-readme-stats.vercel.app/api?username=' +
-    GITHUB_USER +
-    "&show_icons=true&count_private=true&theme=" +
-    THEME +
-    '&hide_border=true" alt="stats" />',
-  '  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=' +
-    GITHUB_USER +
-    "&layout=compact&theme=" +
-    THEME +
-    '&hide_border=true" alt="top languages" />',
-  "</p>",
-  '<p align="center">',
   '  <img src="https://github-readme-streak-stats.herokuapp.com/?user=' +
     GITHUB_USER +
     "&theme=" +
     THEME +
     '&hide_border=true" alt="streak" />',
-  "</p>",
-  '<p align="center">',
-  '  <img src="https://github-profile-trophy.vercel.app/?username=' +
-    GITHUB_USER +
-    "&theme=" +
-    THEME +
-    '&row=1&no-frame=true&margin-w=8" alt="trophies" />',
   "</p>",
 ].join("\n");
 

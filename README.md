@@ -128,14 +128,7 @@ fun_facts:
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ramatalay&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramatalay&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramatalay&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramatalay&theme=tokyonight&row=1&no-frame=true&margin-w=8" alt="trophies" />
 </p>
 
 ---
