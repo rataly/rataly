@@ -1,7 +1,7 @@
 {
-    "name": "rataly",
+    "name": "ramatalay",
     "version": "1.0.0",
-    "description": "Personal README.",
+    "description": "Personal GitHub profile README.",
     "main": "index.js",
     "scripts": {
         "start": "node index.js",
@@ -9,14 +9,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/rataly/rataly.git"
+        "url": "git+https://github.com/ramatalay/ramatalay.git"
     },
     "author": "Ramazan Atalay",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/rataly/rataly/issues"
+        "url": "https://github.com/ramatalay/ramatalay/issues"
     },
-    "homepage": "https://github.com/rataly/rataly#readme",
+    "homepage": "https://github.com/ramatalay/ramatalay#readme",
     "dependencies": {
         "axios": "^0.21.1",
         "markdown-it": "^11.0.0",

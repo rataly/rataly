@@ -40,7 +40,7 @@ jobs:
           git push
 
   # Generates the contribution snake animation into the `output` branch
-  # The README references it from: /rataly/rataly/output/github-snake.svg
+  # The README references it from: /ramatalay/ramatalay/output/github-snake.svg
   snake:
     runs-on: ubuntu-latest
     permissions:
@@ -50,7 +50,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: rataly
+          github_user_name: ramatalay
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
